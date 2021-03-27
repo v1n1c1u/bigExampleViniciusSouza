@@ -1,6 +1,6 @@
 # bigExampleViniciusSouza
 
-##BAD SMELLS
+**BAD SMELLS**
 
 _Cliente_
 1) Criação do vetor compras poderia ser feita no construtor, junto com a especificação do nome;
